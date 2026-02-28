@@ -1,7 +1,7 @@
 # Pygame Project
 Small games made with pygame.  
 
-All the image from the projects in this folder can be get from the below link:  
+All the images and icons from above projects can be get from below links:  
 -> pexels: https://www.pexels.com/zh-tw/  
 -> pixabay: https://pixabay.com/  
 -> cleanPNG: https://www.cleanpng.com/  
