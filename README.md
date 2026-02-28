@@ -13,4 +13,4 @@ BGM and sound source:
 -> 小森平的免費下載音效: https://taira-komori.net/freesoundtw.html  
 -> pixabay: https://pixabay.com/  
 
-![Project Banner](https://clay-atlas.com/wp-content/uploads/2021/09/Pygame_logo.gif)
+![Project Banner](https://blog.techbridge.cc/img/kdchang/pygame101/pygame-logo.png)
