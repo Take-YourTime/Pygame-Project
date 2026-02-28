@@ -1,5 +1,4 @@
 ![Project Banner](https://blog.techbridge.cc/img/kdchang/pygame101/pygame-logo.png)  
-  
 # Pygame Project
 Small games made with pygame.  
 
