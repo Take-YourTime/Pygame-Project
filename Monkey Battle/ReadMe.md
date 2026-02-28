@@ -1,5 +1,7 @@
 # Monkey Battle
+Made in July, 2024.  
 
+  
 ## Information
 The idea of this game is from "Maple Cut".  
 It is a Fan-made game of Maple Story.  
