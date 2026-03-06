@@ -76,7 +76,7 @@ while running:
     for number in hours:
         number.draw(window_surface)
 
-    # update
+    # update screen
     pygame.display.update()
     main_clock.tick(FPS)
 
