@@ -1,6 +1,6 @@
 # 🕐 Digital and Analog Clock
 
-A real-time clock application built with **Python** and **Pygame** that displays the current time using both a digital readout and an analog clock face.
+A funny real-time clock application built with **Python** and **Pygame** that displays the current time using both a digital readout and an analog clock face.
 
 ---
 
