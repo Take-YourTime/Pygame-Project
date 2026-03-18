@@ -43,12 +43,7 @@ Pygame-Project/
 │   ├── monkeyKing/              # Boss monkey sprite frames
 │   └── player/                  # Player character sprite frames
 ├── Mosquito War/                # Mosquito War game
-├── _image_material_/            # Shared image assets
-│   ├── Potent Monkeyrog/        # Potent Monkeyrog sprite frames
-│   ├── girl JMS/                # Girl JMS character sprites
-│   ├── girl TMS_2/              # Girl TMS_2 character sprites
-│   ├── magic skills/            # Magic skill effect sprites
-│   └── 白毛猴子隊長/             # White-hair Monkey Captain sprites
+├── _image_material_/            # Unused image assets
 ├── Hello world (pygame test).py # Initial pygame test script
 ├── LICENSE
 └── README.md
