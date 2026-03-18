@@ -1,6 +1,6 @@
 # 🖼️ Image Material
 
-This folder contains **shared sprite sheets and image assets** used across multiple projects in this repository.  
+This folder contains **unsued sprite sheets and image assets**.  
 All sprites are sourced from free online resources (see credits below).
 
 ---
