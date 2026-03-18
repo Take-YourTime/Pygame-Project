@@ -1,6 +1,6 @@
 # 🐒 Monkey Battle
 
-This game is inspired by the concept of a fan-made game, which is called "Maple Cut", it is an action game set in MapleStory.  
+This game is inspired by the concept of a fan-made game, which is called **Maple Cut**, it is an action game set in **MapleStory**.  
 Fight endless waves of monkeys, dodge attacks, and defeat the powerful Monkey King boss!  
 
 > Made in **July, 2024**.
