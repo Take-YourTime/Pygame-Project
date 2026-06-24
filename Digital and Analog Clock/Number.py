@@ -61,7 +61,7 @@ class Number(pygame.sprite.Sprite):
                 if(self.time == time.minute):  # 若時間相同，則不更新
                     return
                 self.time = time.minute
-                degree = time.hour * 15 + time.minute * 0.25
+                degree = (time.hour % 12) * 30 + time.minute * 0.25
                 for hour in group:
                     hour.x, hour.y = circle_location(hour.r, degree)
                     hour.x += hour.original_x
